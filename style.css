@@ -1,0 +1,33 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(23,23,71,1) 35%, rgba(41,22,155,1) 100%);
+    margin-left: 400px;
+    margin-top: 33px;
+    border-radius: 34px;
+}
+#screen{
+    background-color: #ffcccc ;
+    border-radius: 20px;
+    width: 80%;
+    height: 50px;
+    margin-left: 36px;
+    margin-top: 26px;
+    pointer-events: none;
+}
+.btn{
+    background: #ffccee;
+    border-radius: 15px;
+    width: 57px;
+    height: 41px;
+    margin-left: 33px;
+    margin-top: 30px;
+}
+.text{
+    font-size: 30px;
+}
+.head{
+    text-align: center;
+    margin-top: 50px;
+    color: rgba(41,22,155,1);
+}
